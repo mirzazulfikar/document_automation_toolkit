@@ -95,6 +95,11 @@ Automation improves speed, but human review remains necessary.
 
 ---
 
+## Known Limitations
+
+- Bulk renaming logic assumes files already follow a baseline naming convention or contain extractable identifiers
+- Best suited for organizations with existing file governance standards or structured naming policies
+
 ## Author
 
 Created by Zulfikar Mirza  
