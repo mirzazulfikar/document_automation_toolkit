@@ -98,4 +98,4 @@ Automation improves speed, but human review remains necessary.
 ## Author
 
 Created by Zulfikar Mirza  
-Portfolio: https://mirzazulfikar.github.io/my_website/
+Portfolio: https://mirzazulfikar.github.io/portfolio/
